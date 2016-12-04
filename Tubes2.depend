@@ -1,0 +1,134 @@
+# depslib dependency file v1.0
+1480231665 source:d:\asd tp\tubes - copy\list_child.cpp
+	"list_child.h"
+
+1479907414 d:\asd tp\tubes - copy\list_child.h
+	<iostream>
+
+1480345194 source:d:\asd tp\tubes - copy\list_parent.cpp
+	"list_parent.h"
+
+1479907414 d:\asd tp\tubes - copy\list_parent.h
+	<iostream>
+	"list_relasi.h"
+
+1479907414 d:\asd tp\tubes - copy\list_relasi.h
+	"list_relasi.h"
+	"list_child.h"
+	<iostream>
+
+1480345316 source:d:\asd tp\tubes - copy\list_relasi.cpp
+	"list_relasi.h"
+
+1480685441 source:d:\asd tp\tubes - copy - copy\list_child.cpp
+	"list_child.h"
+
+1480679499 d:\asd tp\tubes - copy - copy\list_child.h
+	<iostream>
+
+1480686249 source:d:\asd tp\tubes - copy - copy\list_parent.cpp
+	"list_parent.h"
+
+1480604796 d:\asd tp\tubes - copy - copy\list_parent.h
+	<iostream>
+	"list_relasi.h"
+
+1480603581 d:\asd tp\tubes - copy - copy\list_relasi.h
+	"list_relasi.h"
+	"list_child.h"
+	<iostream>
+
+1480603581 source:d:\asd tp\tubes - copy - copy\list_relasi.cpp
+	"list_relasi.h"
+
+1480684426 source:d:\asd tp\tubes - copy - copy\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"list_child.h"
+	"list_parent.h"
+
+1480818282 source:d:\tubes - copy - copy\list_relasi.cpp
+	"list_relasi.h"
+
+1480603581 d:\tubes - copy - copy\list_relasi.h
+	"list_relasi.h"
+	"list_child.h"
+	<iostream>
+
+1480791962 d:\tubes - copy - copy\list_child.h
+	<iostream>
+
+1480813047 source:d:\tubes - copy - copy\list_child.cpp
+	"list_child.h"
+
+1480792999 source:d:\tubes - copy - copy\list_parent.cpp
+	"list_parent.h"
+
+1480792944 d:\tubes - copy - copy\list_parent.h
+	<iostream>
+	"list_relasi.h"
+
+1480817237 source:d:\tubes - copy - copy\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"list_child.h"
+	"list_parent.h"
+
+1480861457 source:d:\[tugas]\tubesluarbiasa\list_child.cpp
+	"list_child.h"
+
+1480861371 d:\[tugas]\tubesluarbiasa\list_child.h
+	<iostream>
+
+1480861546 source:d:\[tugas]\tubesluarbiasa\list_parent.cpp
+	"list_parent.h"
+
+1480861371 d:\[tugas]\tubesluarbiasa\list_parent.h
+	<iostream>
+	"list_relasi.h"
+
+1480603581 d:\[tugas]\tubesluarbiasa\list_relasi.h
+	"list_relasi.h"
+	"list_child.h"
+	<iostream>
+
+1480861555 source:d:\[tugas]\tubesluarbiasa\list_relasi.cpp
+	"list_relasi.h"
+
+1480817237 source:d:\[tugas]\tubesluarbiasa\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"list_child.h"
+	"list_parent.h"
+
+1480861546 source:d:\[tugas]\semester 3\praktikum struktur data\tubes\tubes asd bimz\list_parent.cpp
+	"list_parent.h"
+
+1480865688 d:\[tugas]\semester 3\praktikum struktur data\tubes\tubes asd bimz\list_parent.h
+	<iostream>
+	"list_relasi.h"
+
+1480603581 d:\[tugas]\semester 3\praktikum struktur data\tubes\tubes asd bimz\list_relasi.h
+	"list_relasi.h"
+	"list_child.h"
+	<iostream>
+
+1480865688 d:\[tugas]\semester 3\praktikum struktur data\tubes\tubes asd bimz\list_child.h
+	<iostream>
+
+1480861555 source:d:\[tugas]\semester 3\praktikum struktur data\tubes\tubes asd bimz\list_relasi.cpp
+	"list_relasi.h"
+
+1480861763 source:d:\[tugas]\semester 3\praktikum struktur data\tubes\tubes asd bimz\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"list_child.h"
+	"list_parent.h"
+
+1480865556 source:d:\[tugas]\semester 3\praktikum struktur data\tubes\tubes asd bimz\list_child.cpp
+	"list_child.h"
+
